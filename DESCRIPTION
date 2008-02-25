@@ -1,13 +1,14 @@
 Package: meifly
 Type: Package
 Title: Interactive model exploration using GGobi
-Version: 0.1
-Date: 2006-11-05
-Depends: rggobi, ggplot, reshape, leaps, MASS
-Suggests: faraway
+Version: 0.1.1
+Date: 2008-02-25
+Depends: reshape(>= 0.8.1), leaps, MASS
+Suggests: rggobi
 Author: Hadley Wickham <h.wickham@gmail.com>
 Maintainer: Hadley Wickham <h.wickham@gmail.com>
-Description: 
+Description: Exploratory model analysis.  Fit and graphical explore ensembles of linear models.
+URL: http://had.co.nz/meifly
 License: GPL
 LazyData: true
-Packaged: Wed Feb 28 08:56:42 2007; hadley
+Packaged: Wed Feb 25 07:12:21 2009; hadley

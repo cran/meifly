@@ -1,4 +1,14 @@
-meifly 0.1.1 ----------------------
+Version 0.2
+------------------------------------------------------------------------------
 
- * suggest rggobi instead of requiring it, to make it easier to use without rggobi installed
- * remove dependency on ggplot
+* convert to roxygen and use a proper NAMESPACE
+
+* switch from depending on reshape to plyr
+
+Version 0.1.1.
+------------------------------------------------------------------------------
+
+* suggest rggobi instead of requiring it, to make it easier to use without
+  rggobi installed
+
+* remove dependency on ggplot
